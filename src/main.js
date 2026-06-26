@@ -29,7 +29,7 @@ async function render(action) {
   const state = collectState();
   let query = {};
 
-  // query = applySearching(query, state, action);
+  query = applySearching(query, state, action);
   query = applyFiltering(query, state, action);
   // query = applySorting(query, state, action);
   query = applyPagination(query, state, action);
