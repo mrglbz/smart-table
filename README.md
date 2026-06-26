@@ -1,3 +1,3 @@
-# sp6-2_smart-table_starter
+# Smart Table project 7
 
 https://github.com/mrglbz/smart-table
